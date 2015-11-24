@@ -1,0 +1,10 @@
+package br.arnhold
+
+import javafx.scene.layout.BorderPane
+import br.arnhold.PrincipalController
+
+component Principal controlledby PrincipalController {
+	BorderPane {
+		//TODO Add Nodes
+	}
+}
